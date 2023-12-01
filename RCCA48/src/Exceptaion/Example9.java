@@ -5,12 +5,12 @@ public class Example9 {
 	public static void main(String[] args) 
 	{
 		System.out.println("-----ms----");
-		try
+		//try
 		{
 			int x=1/0;
 		}
 		System.out.println("HI");
-		catch(ArithmeticException e)
+		//catch(ArithmeticException e)
 		{
 			System.out.println("Handled");
 		}

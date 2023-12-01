@@ -6,11 +6,13 @@ public class expc_CTE {
 	{
 		System.out.println("-----ms----");
 		expc_CTE p =null; 
-		try
+	//	try
 		{
 			System.out.println(p.hashCode());
 		}
+		
 		System.out.println("-----me-------");
+		
 
 		
 	}

@@ -13,7 +13,7 @@ public class Example8
 		{
 			System.out.println("Handled");
 		}		
-		catch(ArithmeticException e)
+		//catch(ArithmeticException e)
 		{
 			System.out.println("Addressed");
 		}

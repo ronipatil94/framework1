@@ -13,7 +13,7 @@ public class BufferRead {
 		File f1 =new File("d://Roni_Patil//yogi.txt");
 		FileReader fr=new FileReader(f1);
 		BufferedReader br=new BufferedReader(fr);
-		br.read(br);
+		//br.read(br);
 		
 		
 		
