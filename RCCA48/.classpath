@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
+	<classpathentry excluding="RCCA48_BATCH/" kind="src" path="src"/>
+	<classpathentry kind="src" path="assinment"/>
+	<classpathentry kind="src" path="programing_class"/>
+	<classpathentry kind="src" path="New_Programing_Class">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
