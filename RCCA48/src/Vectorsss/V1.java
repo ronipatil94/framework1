@@ -10,6 +10,7 @@ public class V1 {
 		
 		l1.add(2);
 		l1.add("HI");
+		System.out.println("hi");
 		l1.add(45);
 		l1.add('s');
 		l1.add(59.6);
